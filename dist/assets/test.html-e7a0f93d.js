@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as o,t as s,n as c}from"./framework-faa23c95.js";const _={};function r(a,l){const e=c("test");return n(),o("div",null,[s(e)])}const f=t(_,[["render",r],["__file","test.html.vue"]]);export{f as default};

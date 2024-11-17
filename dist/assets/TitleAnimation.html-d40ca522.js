@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41cff211","path":"/docs/Compontents/TitleAnimation.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1704265484000,"updatedTime":1704265484000,"contributors":[{"name":"华金锋","email":"943132087@qq.com","commits":1}]},"filePathRelative":"docs/Compontents/TitleAnimation.md"}');export{t as data};

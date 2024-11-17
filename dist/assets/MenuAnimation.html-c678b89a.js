@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ebc58e60","path":"/docs/Compontents/MenuAnimation.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1704265484000,"updatedTime":1704265484000,"contributors":[{"name":"华金锋","email":"943132087@qq.com","commits":1}]},"filePathRelative":"docs/Compontents/MenuAnimation.md"}');export{e as data};

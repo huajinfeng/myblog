@@ -1,0 +1,1 @@
+import{_ as o,p as t,q as a,ab as _,ac as c,s}from"./framework-faa23c95.js";const n={},i=e=>(_("data-v-70807689"),e=e(),c(),e),d={class:"body"},p=i(()=>s("div",{class:"battery"},[s("div",{class:"cover"})],-1)),r=[p];function l(e,h,v,u,f,g){return t(),a("div",d,r)}const x=o(n,[["render",l],["__scopeId","data-v-70807689"],["__file","ChargingAnimation.vue"]]);export{x as default};

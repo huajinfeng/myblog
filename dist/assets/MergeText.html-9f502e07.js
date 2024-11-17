@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0cab1a30","path":"/docs/Compontents/MergeText.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1704265484000,"updatedTime":1704265484000,"contributors":[{"name":"华金锋","email":"943132087@qq.com","commits":1}]},"filePathRelative":"docs/Compontents/MergeText.md"}');export{e as data};
